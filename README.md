@@ -8,8 +8,10 @@
     Prerequisites:
 
     - nodejs    (as recent as possible)
-    - npm       (as recent as possible)
- Installations hilfe -> https://docs.vultr.com/how-to-install-node-js--npm-on-debian-11
+    - npm       (as recent as possible) 
+
+    Für die Hilfe der Installation nmeuerer Updates https://docs.vultr.com/how-to-install-node-js--npm-on-debian-11
+
     must be installed 
     
     cd /opt
